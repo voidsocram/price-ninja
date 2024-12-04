@@ -8,7 +8,7 @@ Price Ninja is a project aimed at creating a web page that extracts product info
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/marcosbd23/price-ninja.git
+git clone https://github.com/voidsocram/price-ninja.git
 ```
 
 **2. Setup Database**
